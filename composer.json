@@ -1,0 +1,16 @@
+{
+    "name": "oop-crud/oop-crud",
+    "description": "This is a testing purpose tiny application",
+    "authors": [
+        {
+            "name": "Md Abdul Majid",
+            "email": "abmajidweb@gmail.com"
+        }
+    ],
+    "require": {},
+ 	"autoload": {
+ 		"psr-4": {
+ 			"App\\": "myapp/"
+ 		}
+ 	}
+}
